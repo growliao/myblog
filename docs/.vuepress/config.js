@@ -3,6 +3,7 @@ module.exports = {
     description: '学不尽的知识，走不完的路',
     // 部署到自己的仓库才用这个节点
     // base:'/blog/',
+    //使用自己的二级域名
     base: '/',
     // dest: './dist', //默认在.vuepress目录下
     port: '8080',
@@ -27,11 +28,9 @@ module.exports = {
                 buttonText: '更新'
             }
         },
+        //全局配置自动生成左侧边栏
         // sidebar: 'auto',
         editLinks: true,
         editLinkText: '在 GitHub 上编辑此页 ！'
     },
-    // build:{
-    //     assetsPublicPath:'/',
-    // }
 }

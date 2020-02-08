@@ -2,7 +2,7 @@
 sidebar: auto
 ---
 # 学习路线
-## Java 基础入门
+### Java 基础入门
 <!-- * [安装JDK](notes/one.md) -->
 * 安装JDK
 * 安装 Intellij IDEA
