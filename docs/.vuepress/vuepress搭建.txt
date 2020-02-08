@@ -1,0 +1,11 @@
+vuepress搭建个人博客 https://book.hliedu.com
+	1：安装node.js  git
+	2:通过node.js安装vuepress   -g表示全局安装
+		npm install -g vuepress
+	3:新建一个项目文件夹
+		mkdir myblog
+	4：初始化工程
+		npm init -y
+	生成一个package.json文件
+	5：在当前目录中创建一个docs目录
+		mkdir docs　　主要存放博客书籍内容
