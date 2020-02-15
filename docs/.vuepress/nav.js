@@ -6,7 +6,7 @@ module.exports = [
         text:'诗和远方',link:'/poetry/pearls/'
     },
     {
-        text:'在线文档',
+        text:'在线文档',link:'',
         items:[
             {text:'Vue',link:'https://cn.vuejs.org/v2/api/'},
             {text:'vuex',link:'https://vuex.vuejs.org/zh/api/#vuex-store'},
@@ -16,7 +16,7 @@ module.exports = [
         ]
     },
     {
-        text:'在线工具',
+        text:'在线工具',link:'',
         items:[
             {
                 text:'在线编辑',
