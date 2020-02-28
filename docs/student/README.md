@@ -19,3 +19,5 @@ sidebar: auto
 * [weiApi学习-事件三要素与操作元素](js/operate.md)
 * [weiApi学习-节点操作](js/node.md)
 * [weiApi学习-注册事件的两种方式](js/registered.md)
+* [window 对象及常见事件](js/window.md)
+* [weiApi学习-网页特效果](js/webpage.md)
