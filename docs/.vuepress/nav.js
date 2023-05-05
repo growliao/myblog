@@ -2,9 +2,9 @@ module.exports = [
     {
         text: '学习路线', link: '/student/'
     },
-    {
-        text:'诗和远方',link:'/poetry/pearls/'
-    },
+    // {
+    //     text:'诗和远方',link:'/poetry/pearls/'
+    // },
     {
         text:'在线文档',link:'',
         items:[
@@ -68,10 +68,10 @@ module.exports = [
             },
         ]
     },
-    {
-        text:'周记',link:'/log/'
-    },
-    {
-        text:'一只小猪猪的爱情故事',link:'https://growliao.github.io/'
-    },
+    // {
+    //     text:'周记',link:'/log/'
+    // },
+    // {
+    //     text:'一只小猪猪的爱情故事',link:'https://growliao.github.io/'
+    // },
 ]

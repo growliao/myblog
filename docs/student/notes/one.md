@@ -1,6 +1,5 @@
 **学习路线**
 ### Java 基础入门
-[安装JDK](https://www.baidu.com)
 * 安装 JDK
 * 安装 Intellij IDEA
 * 第一个 Java 应用程序
